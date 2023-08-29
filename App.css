@@ -1,0 +1,20 @@
+h2 {
+    margin-left: 30px;
+}
+
+input[type="email"],
+input[type="password"] {
+    display: flex;
+    flex-direction: column;
+    width: 180px;
+    margin-left: 30px;
+    margin-bottom: 1.5px;
+}
+
+.btn-login {
+    margin-left: 30px;
+}
+
+p {
+    margin-left: 30px;
+}
